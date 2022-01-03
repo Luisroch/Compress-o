@@ -1,1 +1,1 @@
-# Compress-o
+Projeto que demonstra o uso do middleware de compressão de respostas em APIs REST criadas com o ASP.NET Core (empregando para isto o formato GZIP);
